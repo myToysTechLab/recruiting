@@ -22,8 +22,7 @@ Check out [Tech Blog](http://devblog.mytoys.de/)
 
 Checkout our job offers!
 
-* [Junior iOS Engineer](https://github.com/myToysTechLab/recrutiting/wiki/Junior-iOS-Engineer)
-* [Automation DevOps Engineer](https://github.com/myToysTechLab/recrutiting/wiki/Automation-DevOps-Engineer)
+* [Senior Software Engineer](https://github.com/myToysTechLab/recruiting/wiki/Senior-Software-Engineer)
 
 Interested in other options?
 
