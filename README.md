@@ -23,6 +23,7 @@ Check out [Tech Blog](http://devblog.mytoys.de/)
 Checkout our job offers!
 
 * [Senior Software Engineer](https://github.com/myToysTechLab/recruiting/wiki/Senior-Software-Engineer)
+* [Senior Drupal Developer](https://github.com/myToysTechLab/recruiting/wiki/Senior-Drupal-Developer)
 
 Interested in other options?
 
